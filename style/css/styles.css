@@ -1,0 +1,19 @@
+.scrollspySite {
+  position: relative;
+  overflow: auto;
+  height: 380px;
+}
+
+.nav-pills > li > a {
+  color: white;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  background-color: grey;
+}
+
+/*# sourceMappingURL=styles.css.map */
+
+/*# sourceMappingURL=styles.css.map */
